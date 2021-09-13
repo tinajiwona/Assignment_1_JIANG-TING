@@ -1,1 +1,1 @@
-print("Hello, this is my first code. I am JIANG TING558")
+print("Hello, this is my first code. I am JIANG TING")
